@@ -1,0 +1,43 @@
+body {
+    background-color: rgba(0, 0, 0, 0.918);
+    color: gold;
+}
+
+p {
+    color: rgb(236, 227, 172);
+}
+
+header {
+    width: 100%;
+}
+
+header p {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#freelancers {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+}
+
+table {
+    text-align: center;
+}
+
+table th {
+    padding-bottom: 10px;
+}
+
+table td {
+    color: rgb(236, 227, 172);
+}
